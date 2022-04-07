@@ -1,7 +1,8 @@
 #find a quote from a famous person
 #ceate a variable for the famous person
 #compose message and represent it with a new variable
-#print the message 
+#print the message
+
 
 # print(' Eric Thomas said, "Everybody has a dream, but not everybody has a grind." ')
 

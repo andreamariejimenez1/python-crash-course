@@ -1,0 +1,3 @@
+# GOAL: USE A FOOR LOOP TO PRINT THE NUMBERS 1 TO 20, INCLUSIVE
+for i in range(1, 21):
+  print(i)
